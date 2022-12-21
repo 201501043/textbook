@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import "./home.css"
 import Title from "./title"
-import book1 from "./book1.jpg"
-import book2 from "./book2.jpg"
+import book1 from "./cyberbook1.png"
+import book2 from "./cyberbook2.png"
 export default class home extends Component {
   constructor(props){
     super(props)
