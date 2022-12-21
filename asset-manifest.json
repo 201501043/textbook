@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/textbook/static/css/main.073c9b0a.css",
-    "main.js": "/textbook/static/js/main.c3fa74e4.js",
+    "main.css": "/textbook/static/css/main.48880ba1.css",
+    "main.js": "/textbook/static/js/main.378d47fe.js",
     "static/js/787.1983f893.chunk.js": "/textbook/static/js/787.1983f893.chunk.js",
-    "static/media/logo.svg": "/textbook/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Cyber Security Text Book 1.pdf": "/textbook/static/media/Cyber Security Text Book 1.576bb57defda9ed5011a.pdf",
+    "static/media/Cyber Security Text Book 2.pdf": "/textbook/static/media/Cyber Security Text Book 2.3428f8a0d06c2a998a6c.pdf",
+    "static/media/cyberbook1.png": "/textbook/static/media/cyberbook1.070774d1f89ce3ab434c.png",
+    "static/media/cyberbook2.png": "/textbook/static/media/cyberbook2.1dbc8068040d53faf99f.png",
+    "static/media/background.jpg": "/textbook/static/media/background.962b29309aba087214b6.jpg",
     "index.html": "/textbook/index.html",
-    "main.073c9b0a.css.map": "/textbook/static/css/main.073c9b0a.css.map",
-    "main.c3fa74e4.js.map": "/textbook/static/js/main.c3fa74e4.js.map",
+    "main.48880ba1.css.map": "/textbook/static/css/main.48880ba1.css.map",
+    "main.378d47fe.js.map": "/textbook/static/js/main.378d47fe.js.map",
     "787.1983f893.chunk.js.map": "/textbook/static/js/787.1983f893.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c3fa74e4.js"
+    "static/css/main.48880ba1.css",
+    "static/js/main.378d47fe.js"
   ]
 }
