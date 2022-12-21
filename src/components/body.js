@@ -12,8 +12,8 @@ export default class body extends Component {
         <div className='body-card-view'>
           <h1>CYBER SECURITY</h1>
           <div className='book-container'>
-            <a href="./pdf/Cyber Security Text Book 1.pdf"><img src={book1} className="books"/></a>
-            <a href=""><img src={book2} className="books"/></a>
+            <a href={require("./pdf/Cyber Security Text Book 1.pdf")} ><img src={book1} className="books"/></a>
+            <a href={require("./pdf/Cyber Security Text Book 2.pdf")} ><img src={book2} className="books"/></a>
           </div>
         </div>
       </section>
