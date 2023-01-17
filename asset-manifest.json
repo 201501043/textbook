@@ -1,20 +1,32 @@
 {
   "files": {
-    "main.css": "/textbook/static/css/main.48880ba1.css",
-    "main.js": "/textbook/static/js/main.378d47fe.js",
+    "main.css": "/textbook/static/css/main.551f8b00.css",
+    "main.js": "/textbook/static/js/main.b16461c7.js",
     "static/js/787.1983f893.chunk.js": "/textbook/static/js/787.1983f893.chunk.js",
+    "static/media/Computer Networks Text Book 2.pdf": "/textbook/static/media/Computer Networks Text Book 2.57932139cfaee2bedcfd.pdf",
     "static/media/Cyber Security Text Book 1.pdf": "/textbook/static/media/Cyber Security Text Book 1.576bb57defda9ed5011a.pdf",
+    "static/media/Computer Networks Text Book 1.pdf": "/textbook/static/media/Computer Networks Text Book 1.3926bdfcba4b18f8c86f.pdf",
+    "static/media/Data Science Text Book 2.pdf": "/textbook/static/media/Data Science Text Book 2.d84eeecb168315e7e939.pdf",
+    "static/media/Deep Learning Text Book 2.pdf": "/textbook/static/media/Deep Learning Text Book 2.9abadb7a051353c9dfae.pdf",
+    "static/media/Deep Learning Text Book 1.pdf": "/textbook/static/media/Deep Learning Text Book 1.9ac9bc53f91dad710668.pdf",
+    "static/media/Data Science Text Book 1.pdf": "/textbook/static/media/Data Science Text Book 1.a7b9cb515f6762dfeedc.pdf",
     "static/media/Cyber Security Text Book 2.pdf": "/textbook/static/media/Cyber Security Text Book 2.3428f8a0d06c2a998a6c.pdf",
+    "static/media/network2.png": "/textbook/static/media/network2.c3e30fea8ea5c04f7680.png",
+    "static/media/dsr1.png": "/textbook/static/media/dsr1.2edf350f5364f14b393e.png",
+    "static/media/dl1.png": "/textbook/static/media/dl1.c60eff72c34276d7d122.png",
+    "static/media/dsr2.png": "/textbook/static/media/dsr2.baec385bb4724de19eb6.png",
     "static/media/cyberbook1.png": "/textbook/static/media/cyberbook1.070774d1f89ce3ab434c.png",
     "static/media/cyberbook2.png": "/textbook/static/media/cyberbook2.1dbc8068040d53faf99f.png",
+    "static/media/network1.png": "/textbook/static/media/network1.c748d18e59c211e5fe2e.png",
+    "static/media/dl2.png": "/textbook/static/media/dl2.def6ca402c3e597e3959.png",
     "static/media/background.jpg": "/textbook/static/media/background.962b29309aba087214b6.jpg",
     "index.html": "/textbook/index.html",
-    "main.48880ba1.css.map": "/textbook/static/css/main.48880ba1.css.map",
-    "main.378d47fe.js.map": "/textbook/static/js/main.378d47fe.js.map",
+    "main.551f8b00.css.map": "/textbook/static/css/main.551f8b00.css.map",
+    "main.b16461c7.js.map": "/textbook/static/js/main.b16461c7.js.map",
     "787.1983f893.chunk.js.map": "/textbook/static/js/787.1983f893.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48880ba1.css",
-    "static/js/main.378d47fe.js"
+    "static/css/main.551f8b00.css",
+    "static/js/main.b16461c7.js"
   ]
 }
