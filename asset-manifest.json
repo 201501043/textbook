@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/textbook/static/css/main.551f8b00.css",
-    "main.js": "/textbook/static/js/main.b16461c7.js",
+    "main.js": "/textbook/static/js/main.a5681b6c.js",
     "static/js/787.1983f893.chunk.js": "/textbook/static/js/787.1983f893.chunk.js",
     "static/media/Computer Networks Text Book 2.pdf": "/textbook/static/media/Computer Networks Text Book 2.57932139cfaee2bedcfd.pdf",
     "static/media/Cyber Security Text Book 1.pdf": "/textbook/static/media/Cyber Security Text Book 1.576bb57defda9ed5011a.pdf",
@@ -22,11 +22,11 @@
     "static/media/background.jpg": "/textbook/static/media/background.962b29309aba087214b6.jpg",
     "index.html": "/textbook/index.html",
     "main.551f8b00.css.map": "/textbook/static/css/main.551f8b00.css.map",
-    "main.b16461c7.js.map": "/textbook/static/js/main.b16461c7.js.map",
+    "main.a5681b6c.js.map": "/textbook/static/js/main.a5681b6c.js.map",
     "787.1983f893.chunk.js.map": "/textbook/static/js/787.1983f893.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.551f8b00.css",
-    "static/js/main.b16461c7.js"
+    "static/js/main.a5681b6c.js"
   ]
 }
