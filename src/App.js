@@ -6,7 +6,7 @@ import Sem2 from './pages/sem/sem2';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 function App() {
   return (
-      <BrowserRouter>
+      <BrowserRouter basename='/'>
         <Home/>
         <Routes>
           <Route path="/textbook" element={<Layout/>}>
