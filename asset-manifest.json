@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/textbook/static/css/main.551f8b00.css",
-    "main.js": "/textbook/static/js/main.a5681b6c.js",
+    "main.css": "/textbook/static/css/main.44ec9ceb.css",
+    "main.js": "/textbook/static/js/main.23cb4264.js",
     "static/js/787.1983f893.chunk.js": "/textbook/static/js/787.1983f893.chunk.js",
     "static/media/Computer Networks Text Book 2.pdf": "/textbook/static/media/Computer Networks Text Book 2.57932139cfaee2bedcfd.pdf",
     "static/media/Cyber Security Text Book 1.pdf": "/textbook/static/media/Cyber Security Text Book 1.576bb57defda9ed5011a.pdf",
@@ -11,7 +11,7 @@
     "static/media/Deep Learning Text Book 1.pdf": "/textbook/static/media/Deep Learning Text Book 1.9ac9bc53f91dad710668.pdf",
     "static/media/Data Science Text Book 1.pdf": "/textbook/static/media/Data Science Text Book 1.a7b9cb515f6762dfeedc.pdf",
     "static/media/Cyber Security Text Book 2.pdf": "/textbook/static/media/Cyber Security Text Book 2.3428f8a0d06c2a998a6c.pdf",
-    "static/media/network2.png": "/textbook/static/media/network2.c3e30fea8ea5c04f7680.png",
+    "static/media/network2.png": "/textbook/static/media/network2.a5e67aa5303881d1fc53.png",
     "static/media/dsr1.png": "/textbook/static/media/dsr1.2edf350f5364f14b393e.png",
     "static/media/dl1.png": "/textbook/static/media/dl1.c60eff72c34276d7d122.png",
     "static/media/dsr2.png": "/textbook/static/media/dsr2.baec385bb4724de19eb6.png",
@@ -21,12 +21,12 @@
     "static/media/dl2.png": "/textbook/static/media/dl2.def6ca402c3e597e3959.png",
     "static/media/background.jpg": "/textbook/static/media/background.962b29309aba087214b6.jpg",
     "index.html": "/textbook/index.html",
-    "main.551f8b00.css.map": "/textbook/static/css/main.551f8b00.css.map",
-    "main.a5681b6c.js.map": "/textbook/static/js/main.a5681b6c.js.map",
+    "main.44ec9ceb.css.map": "/textbook/static/css/main.44ec9ceb.css.map",
+    "main.23cb4264.js.map": "/textbook/static/js/main.23cb4264.js.map",
     "787.1983f893.chunk.js.map": "/textbook/static/js/787.1983f893.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.551f8b00.css",
-    "static/js/main.a5681b6c.js"
+    "static/css/main.44ec9ceb.css",
+    "static/js/main.23cb4264.js"
   ]
 }
