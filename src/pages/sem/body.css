@@ -59,7 +59,12 @@ h1{
     order: 4; */
   padding: 5px;
   height: 30vw;
+  width:  23vw;
   margin: 10px;
+}
+
+@media screen  and (min-width:1500px) {
+    
 }
 
 @media screen and (max-width: 1500px) {
@@ -74,9 +79,17 @@ h1{
     }
 
     h1{
-        font-size: 5vw;
+        font-size: 4vw;
         padding: 5px;
         color: aliceblue;
+    }
+
+    .book-container{
+        column-gap: 8vw;
+    }
+
+    .books{
+        width: 20vw;
     }
 }
 
@@ -97,6 +110,7 @@ h1{
         padding: 5px;
         height: 40vw;
         margin: 10px;
+        width: 29vw;
     }
 }
 
@@ -119,5 +133,6 @@ h1{
 
     .books{
         height: 39vw;
+        width: 29vw;
     }
 }

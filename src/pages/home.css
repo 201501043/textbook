@@ -74,6 +74,14 @@
     color: aliceblue;
 }
 
+@media screen  and (min-width:1500px) {
+    .book-image-container{
+        position: relative;
+        top:8vw;
+        left: 40vw;
+    }
+}
+
 @media screen and (max-width: 1500px) {
     .book-image-container {
         width: 55%;
